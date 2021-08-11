@@ -8,3 +8,5 @@ This repository consists of my solutions to programming problems available at [L
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./1-99/2.cpp)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](./1-99/3.cpp)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./1-99/7.cpp)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](./1-99/9.cpp)|Easy|
+
